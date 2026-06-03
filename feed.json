@@ -1,0 +1,36 @@
+{
+	"version": "https://jsonfeed.org/version/1",
+	"title": "Leo Qi",
+	"icon": "https://micro.blog/leoqi/avatar.jpg",
+	"home_page_url": "https://blog.leoqi.ca/",
+	"feed_url": "https://blog.leoqi.ca/feed.json",
+	"items": [
+		
+			{
+				"id": "http://leoqi.micro.blog/2026/06/03/083618.html",
+				
+				"content_html": "<blockquote>\n<p><a href=\"http://www.incompleteideas.net/IncIdeas/BitterLesson.html\">www.incompleteideas.net/IncIdeas/&hellip;</a></p>\n</blockquote>\n<p>When we model a complex system using theory (explanation), we must ignore some details about its nature: the parameters we pick, although good for developing our <em>human intuition</em>, often misses some interaction which is unexplainable or unknowable to us.\nWith a large enough dataset which is trained to produce many parameters purely in  a predictive fitting way, there is no room for our biases on what the model should look like. Best we can hope for, all cases in the data are accounted for, but how we <em>got there</em> is now hard to explain.</p>\n",
+				"content_text": "> [www.incompleteideas.net/IncIdeas/...](http://www.incompleteideas.net/IncIdeas/BitterLesson.html)\n\nWhen we model a complex system using theory (explanation), we must ignore some details about its nature: the parameters we pick, although good for developing our _human intuition_, often misses some interaction which is unexplainable or unknowable to us.\nWith a large enough dataset which is trained to produce many parameters purely in  a predictive fitting way, there is no room for our biases on what the model should look like. Best we can hope for, all cases in the data are accounted for, but how we _got there_ is now hard to explain.\n",
+				"date_published": "2026-06-03T08:36:18-04:00",
+				"url": "https://blog.leoqi.ca/2026/06/03/083618.html"
+			},
+			{
+				"id": "http://leoqi.micro.blog/2026/05/31/change-is-what-breath-is.html",
+				
+				"content_html": "<p>Change is what breath is to my life: through it I feel what I am clearly.</p>\n",
+				"content_text": "Change is what breath is to my life: through it I feel what I am clearly.\n",
+				"date_published": "2026-05-31T16:57:13-04:00",
+				"url": "https://blog.leoqi.ca/2026/05/31/change-is-what-breath-is.html",
+				"tags": ["showerthought"]
+			},
+			{
+				"id": "http://leoqi.micro.blog/2026/05/31/learning-from-someone-else.html",
+				
+				"content_html": "<p>One way of looking at learning is that you&rsquo;re copying bits of someone else&rsquo;s system.\nIf it&rsquo;s hard (for anyone!) to explain what they&rsquo;re doing, then you have to copy the whole system to get the same results.\nWhen learning an instrument or cooking, at first you have to change your way of doing things.</p>\n",
+				"content_text": "One way of looking at learning is that you're copying bits of someone else's system.\nIf it's hard (for anyone!) to explain what they're doing, then you have to copy the whole system to get the same results.\nWhen learning an instrument or cooking, at first you have to change your way of doing things.\n",
+				"date_published": "2026-05-31T08:37:43-04:00",
+				"url": "https://blog.leoqi.ca/2026/05/31/learning-from-someone-else.html",
+				"tags": ["showerthought"]
+			}
+	]
+}
