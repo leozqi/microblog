@@ -7,6 +7,22 @@
 	"items": [
 		
 			{
+				"id": "http://leoqi.micro.blog/2026/06/14/derek-sarnos-recipe-for-beans.html",
+				
+				"content_html": "<p><a href=\"https://www.youtube.com/watch?v=b4BU8kmWwtc\">Derek Sarno</a>&rsquo;s recipe for beans, with my mods:</p>\n<p>1 lb pinto beans, 1 onion.\nSpices: garlic, olive oil, paprika, smoked paprika, granulated garlic/onion, bay leaves, bouillon, salt+pepper.</p>\n<p>Soak beans overnight. Drain, rinse.\nIn casserole onion, garlic, olive oil until softened.\nAdd spices, then beans bringing to slow boil, simmering 1-2hrs stirring frequently.\nSeason to taste.</p>\n<blockquote>\n<p>Brothy the first day, thickens naturally the next.</p>\n</blockquote>\n",
+				"content_text": "[Derek Sarno](https://www.youtube.com/watch?v=b4BU8kmWwtc)'s recipe for beans, with my mods:\n\n1 lb pinto beans, 1 onion.\nSpices: garlic, olive oil, paprika, smoked paprika, granulated garlic/onion, bay leaves, bouillon, salt+pepper.\n\nSoak beans overnight. Drain, rinse.\nIn casserole onion, garlic, olive oil until softened.\nAdd spices, then beans bringing to slow boil, simmering 1-2hrs stirring frequently.\nSeason to taste.\n\n> Brothy the first day, thickens naturally the next.\n",
+				"date_published": "2026-06-14T17:05:28-04:00",
+				"url": "https://blog.leoqi.ca/2026/06/14/derek-sarnos-recipe-for-beans.html"
+			},
+			{
+				"id": "http://leoqi.micro.blog/2026/06/08/what-is-the-goal-always.html",
+				
+				"content_html": "<p>What is the goal? Always ask this question.</p>\n",
+				"content_text": "What is the goal? Always ask this question.\n",
+				"date_published": "2026-06-08T21:47:37-04:00",
+				"url": "https://blog.leoqi.ca/2026/06/08/what-is-the-goal-always.html"
+			},
+			{
 				"id": "http://leoqi.micro.blog/2026/06/03/083618.html",
 				
 				"content_html": "<blockquote>\n<p><a href=\"http://www.incompleteideas.net/IncIdeas/BitterLesson.html\">www.incompleteideas.net/IncIdeas/&hellip;</a></p>\n</blockquote>\n<p>When we model a complex system using theory (explanation), we must ignore some details about its nature: the parameters we pick, although good for developing our <em>human intuition</em>, often misses some interaction which is unexplainable or unknowable to us.\nWith a large enough dataset which is trained to produce many parameters purely in  a predictive fitting way, there is no room for our biases on what the model should look like. Best we can hope for, all cases in the data are accounted for, but how we <em>got there</em> is now hard to explain.</p>\n",
