@@ -7,12 +7,29 @@
 	"items": [
 		
 			{
+				"id": "http://leoqi.micro.blog/2026/06/17/when-llms-and-agents-and.html",
+				
+				"content_html": "<p>When LLMs and agents and all of that serve to increase conceptual integrity, because only one person is calling the shots, then the resulting creation might actually be done in less time and be easier to use. But we can do this with people too.</p>\n",
+				"content_text": "When LLMs and agents and all of that serve to increase conceptual integrity, because only one person is calling the shots, then the resulting creation might actually be done in less time and be easier to use. But we can do this with people too.\n",
+				"date_published": "2026-06-17T12:18:21-04:00",
+				"url": "https://blog.leoqi.ca/2026/06/17/when-llms-and-agents-and.html"
+			},
+			{
+				"id": "http://leoqi.micro.blog/2026/06/15/how-to-read-keshav.html",
+				"title": "How to Read (Keshav 2007)",
+				"content_html": "<ol>\n<li>Careful: Title, Abstract, Introduction.\nRead: Section headings, conclusion, references\nScan for: category, context, assumptions, contributions and clarity.</li>\n<li>Careful: figures, diagrams\nread: all except proofs\nScan for: relevant unread references</li>\n<li>Careful: every assumption\nRead: all\nScan for: recreating the work in thought, making the same assumptions as the author.</li>\n</ol>\n",
+				"content_text": "1. Careful: Title, Abstract, Introduction.\nRead: Section headings, conclusion, references\nScan for: category, context, assumptions, contributions and clarity.\n2. Careful: figures, diagrams\nread: all except proofs\nScan for: relevant unread references\n3. Careful: every assumption\nRead: all\nScan for: recreating the work in thought, making the same assumptions as the author.\n",
+				"date_published": "2026-06-15T08:09:16-04:00",
+				"url": "https://blog.leoqi.ca/2026/06/15/how-to-read-keshav.html"
+			},
+			{
 				"id": "http://leoqi.micro.blog/2026/06/14/derek-sarnos-recipe-for-beans.html",
 				
-				"content_html": "<p><a href=\"https://www.youtube.com/watch?v=b4BU8kmWwtc\">Derek Sarno</a>&rsquo;s recipe for beans, with my mods:</p>\n<p>1 lb pinto beans, 1 onion.\nSpices: garlic, olive oil, paprika, smoked paprika, granulated garlic/onion, bay leaves, bouillon, salt+pepper.</p>\n<p>Soak beans overnight. Drain, rinse.\nIn casserole onion, garlic, olive oil until softened.\nAdd spices, then beans bringing to slow boil, simmering 1-2hrs stirring frequently.\nSeason to taste.</p>\n<blockquote>\n<p>Brothy the first day, thickens naturally the next.</p>\n</blockquote>\n",
-				"content_text": "[Derek Sarno](https://www.youtube.com/watch?v=b4BU8kmWwtc)'s recipe for beans, with my mods:\n\n1 lb pinto beans, 1 onion.\nSpices: garlic, olive oil, paprika, smoked paprika, granulated garlic/onion, bay leaves, bouillon, salt+pepper.\n\nSoak beans overnight. Drain, rinse.\nIn casserole onion, garlic, olive oil until softened.\nAdd spices, then beans bringing to slow boil, simmering 1-2hrs stirring frequently.\nSeason to taste.\n\n> Brothy the first day, thickens naturally the next.\n",
+				"content_html": "<p><a href=\"https://www.youtube.com/watch?v=b4BU8kmWwtc\">Derek Sarno</a>&rsquo;s recipe for beans, with my mods:</p>\n<p>1 lb pinto beans, 1 onion.\nSpices: garlic, olive oil, smoked paprika, granulated garlic/onion, bay leaves, bouillon, salt+pepper.</p>\n<p>Soak beans overnight. Drain, rinse.\nIn casserole onion, garlic, olive oil until softened.\nAdd spices, then beans and water, bringing to slow boil, simmering 1-2hrs stirring frequently.\nSeason to taste.</p>\n<blockquote>\n<p>Brothy the first day, thickens naturally the next.</p>\n</blockquote>\n",
+				"content_text": "[Derek Sarno](https://www.youtube.com/watch?v=b4BU8kmWwtc)'s recipe for beans, with my mods:\n\n1 lb pinto beans, 1 onion.\nSpices: garlic, olive oil, smoked paprika, granulated garlic/onion, bay leaves, bouillon, salt+pepper.\n\nSoak beans overnight. Drain, rinse.\nIn casserole onion, garlic, olive oil until softened.\nAdd spices, then beans and water, bringing to slow boil, simmering 1-2hrs stirring frequently.\nSeason to taste.\n\n> Brothy the first day, thickens naturally the next.\n",
 				"date_published": "2026-06-14T17:05:28-04:00",
-				"url": "https://blog.leoqi.ca/2026/06/14/derek-sarnos-recipe-for-beans.html"
+				"url": "https://blog.leoqi.ca/2026/06/14/derek-sarnos-recipe-for-beans.html",
+				"tags": ["recipes"]
 			},
 			{
 				"id": "http://leoqi.micro.blog/2026/06/08/what-is-the-goal-always.html",
